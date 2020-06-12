@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/machine_leaning1.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+venv/
